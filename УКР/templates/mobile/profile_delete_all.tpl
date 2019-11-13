@@ -1,0 +1,1 @@
+<div class="info_center">{translate=lang_235}<br />{translate=lang_233}</div>

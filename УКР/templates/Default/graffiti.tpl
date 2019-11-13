@@ -1,0 +1,2 @@
+<script src='{theme}/js/swfobject.js'></script>
+<div id="flash_player_container" style="text-align: center; width: 100%; margin: auto;"><embed type="application/x-shockwave-flash" src="{theme}/js/graffiti.swf" width="600" height="385" style="undefined" id="player" name="player" quality="high" allowfullscreen="false" flashvars="overstretch=false&amp;postTo=/index.php?go=graffiti%26act=send%26id={id}%26graffiti={graffitiRand}&amp;redirectTo=/u{id}"></div>

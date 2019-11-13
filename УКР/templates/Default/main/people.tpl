@@ -1,0 +1,1 @@
+<!--<div class="ten"><a href="/u{user-id}" onClick="Page.Go(this.href); return false"><img src="{photo}" alt="" title="" /><div><br /></div></a></div>--!>

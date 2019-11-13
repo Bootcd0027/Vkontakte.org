@@ -1,0 +1,2 @@
+<div class="info_center">[owner]{translate=lang_735}[/owner][not-owner]{translate=no_albums}[/not-owner]</div>
+[owner]<center><button onClick="Albums.CreatAlbum(); return false;" class="button">{translate=lang_57}</button></center>[/owner]

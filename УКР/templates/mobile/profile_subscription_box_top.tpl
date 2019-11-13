@@ -1,0 +1,1 @@
+[top]<style>.nav{margin-bottom:10px}</style><div class="cover_edit_title">{translate=lang_56} {subcr-num}</div>[/top]

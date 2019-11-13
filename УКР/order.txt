@@ -1,0 +1,7 @@
+order_num :1380790354; Summ :100; Date :2013-10-321:52:50
+order_num :1381230561; Summ :12; Date :2013-10-820:9:36
+order_num :1381230834; Summ :15; Date :2013-10-820:14:13
+order_num :1381240739; Summ :10; Date :2013-10-823:1:9
+order_num :1381240534; Summ :100; Date :2013-10-823:9:33
+order_num :1381242688; Summ :5; Date :2013-10-823:32:40
+order_num :1381242844; Summ :7; Date :2013-10-823:34:28
